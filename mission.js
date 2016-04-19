@@ -313,3 +313,6 @@ nextPrime:
 
     alert( i ); // простое
   }
+
+
+kill me please
